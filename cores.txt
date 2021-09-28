@@ -1,0 +1,2 @@
+cor da barra = 1e2348
+cor do menu cascata = 1f36d9
